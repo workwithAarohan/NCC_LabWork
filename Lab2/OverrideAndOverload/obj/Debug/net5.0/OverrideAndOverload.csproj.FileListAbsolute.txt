@@ -1,0 +1,16 @@
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload.deps.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload.runtimeconfig.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload.runtimeconfig.dev.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/ref/OverrideAndOverload.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/bin/Debug/net5.0/OverrideAndOverload.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.csprojAssemblyReference.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.GeneratedMSBuildEditorConfig.editorconfig
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.AssemblyInfoInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.AssemblyInfo.cs
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.csproj.CoreCompileInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/ref/OverrideAndOverload.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/OverrideAndOverload/obj/Debug/net5.0/OverrideAndOverload.genruntimeconfig.cache

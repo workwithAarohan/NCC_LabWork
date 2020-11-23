@@ -1,0 +1,16 @@
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.csprojAssemblyReference.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.AssemblyInfoInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.AssemblyInfo.cs
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.csproj.CoreCompileInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject.deps.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject.runtimeconfig.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject.runtimeconfig.dev.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ref/ClassAndObject.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/bin/Debug/net5.0/ClassAndObject.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ref/ClassAndObject.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/ClassAndObject/obj/Debug/net5.0/ClassAndObject.genruntimeconfig.cache

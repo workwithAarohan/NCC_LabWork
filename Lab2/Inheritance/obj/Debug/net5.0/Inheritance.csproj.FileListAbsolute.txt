@@ -1,0 +1,16 @@
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab2/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
