@@ -1,0 +1,16 @@
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface.deps.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/ref/Interface.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/bin/Debug/net5.0/Interface.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.csprojAssemblyReference.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/ref/Interface.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache

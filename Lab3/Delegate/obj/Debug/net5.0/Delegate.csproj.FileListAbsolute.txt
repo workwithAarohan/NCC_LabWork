@@ -1,0 +1,16 @@
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate.deps.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.dev.json
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/ref/Delegate.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/bin/Debug/net5.0/Delegate.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.csprojAssemblyReference.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfoInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfo.cs
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.csproj.CoreCompileInputs.cache
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/ref/Delegate.dll
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.pdb
+/home/aarohan/Documents/6thSem/NCC/Lab/LabWork/Lab3/Delegate/obj/Debug/net5.0/Delegate.genruntimeconfig.cache
