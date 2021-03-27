@@ -1,0 +1,16 @@
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.exe
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.deps.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.runtimeconfig.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.runtimeconfig.dev.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\ref\LongestWord.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\bin\Debug\net5.0\LongestWord.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.csprojAssemblyReference.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.AssemblyInfoInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.AssemblyInfo.cs
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.csproj.CoreCompileInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\ref\LongestWord.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\LongestWord\obj\Debug\net5.0\LongestWord.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.exe
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.deps.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.runtimeconfig.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.runtimeconfig.dev.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\ref\SwapChar.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\bin\Debug\net5.0\SwapChar.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.csprojAssemblyReference.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.AssemblyInfoInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.AssemblyInfo.cs
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.csproj.CoreCompileInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\ref\SwapChar.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\SwapChar\obj\Debug\net5.0\SwapChar.genruntimeconfig.cache

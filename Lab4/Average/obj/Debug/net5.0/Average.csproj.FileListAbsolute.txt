@@ -1,0 +1,16 @@
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.csprojAssemblyReference.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.AssemblyInfoInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.AssemblyInfo.cs
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.csproj.CoreCompileInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.exe
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.deps.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.runtimeconfig.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.runtimeconfig.dev.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\ref\Average.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\bin\Debug\net5.0\Average.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\ref\Average.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Average\obj\Debug\net5.0\Average.genruntimeconfig.cache

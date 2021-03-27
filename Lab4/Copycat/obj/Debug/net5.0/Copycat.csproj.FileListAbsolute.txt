@@ -1,0 +1,16 @@
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.exe
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.deps.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.runtimeconfig.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.runtimeconfig.dev.json
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\ref\Copycat.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\bin\Debug\net5.0\Copycat.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.csprojAssemblyReference.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.AssemblyInfoInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.AssemblyInfo.cs
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.csproj.CoreCompileInputs.cache
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\ref\Copycat.dll
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.pdb
+E:\Files\6thSem\NCC\LabWork\NCC_LabWork\Lab4\Copycat\obj\Debug\net5.0\Copycat.genruntimeconfig.cache
