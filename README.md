@@ -1,13 +1,5 @@
-<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
-| ![](https://avatars.githubusercontent.com/u/6848264?v=4)  | NCC Lab Work | ![](https://avatars.githubusercontent.com/u/52736805?v=4) |
-| ---- | ---- | ---- |
-
-
-
-<br/>
-
-### Lab List
+## NCC Lab Work 
 
 - **Lab1:** Create GitHub Repository.
 
