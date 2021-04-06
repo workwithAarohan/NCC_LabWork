@@ -18,7 +18,7 @@ namespace LongestWord
                     ctr = s.Length;
                 }
             }       
-            Console.WriteLine(word);
+            Console.WriteLine("From the string '" + line + "' , '" + word + "' is the longest word.");
         }
     }
 }

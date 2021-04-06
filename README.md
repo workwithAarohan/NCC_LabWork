@@ -1,31 +1,9 @@
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
-<table style=" width: 100%; text-align:center;">
-    <tr>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/6848264?v=4" style="border-radius: 50%; width: 150px;">
-        </td>
-        <td>
-            <h2>NCC LAB WORK</h2>
-        </td>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/52736805?v=4" style="border-radius: 50%; width: 150px;">
-        </td>
-    </tr>
-    <tr>
-        <td> <b>Submitted to:</b> </td>
-        <td> </td>
-        <td> <b>Submitted by:</b> </td>
-    </tr> 
-    <tr>
-        <td>
-            <a>Chandan Gupta Bhagat</a>
-        </td>
-        <td> </td>
-        <td>
-            <a>Aarohan Nakarmi</a>
-        </td>
-    </tr> 
-</table>
+| ![](https://avatars.githubusercontent.com/u/6848264?v=4)  | NCC Lab Work | ![](https://avatars.githubusercontent.com/u/52736805?v=4) |
+| ---- | ---- | ---- |
+
+
 
 <br/>
 
