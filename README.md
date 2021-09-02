@@ -1,6 +1,8 @@
 
 ## NCC Lab Work 
 
+![Profile](image.png)
+
 - **Lab1:** Create GitHub Repository.
 
 - **Lab2:** [Basic Concept of Object Oriented Programming](https://github.com/workwithAarohan/NCC_LabWork/tree/master/Lab2).
